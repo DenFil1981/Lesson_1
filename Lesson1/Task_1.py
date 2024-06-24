@@ -1,2 +1,2 @@
 my_name = "Den"
-print ("Привет, меня зовут, " +  my_name )
+print ("Привет, меня зовут " +  my_name )

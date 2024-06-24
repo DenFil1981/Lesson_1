@@ -1,3 +1,2 @@
-user_name = "DenFil"
-
-user_name = input("Привет," + "DenFil ")
+user_name = input("Денис")
+print("Привет, " + user_name)

@@ -1,5 +1,5 @@
-my_age_1 = 43
-my_age_2 = 46
+my_age = 43
+my_age = my_age + 3
 
-print(my_age_1)
-print(my_age_2)
+print(my_age)
+
